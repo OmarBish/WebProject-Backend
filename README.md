@@ -16,11 +16,11 @@
     ```sh
     php artisan migrate:fresh
     
-5. Install passport
+5. Generate Laravel Key
     ```sh
     php artisan key:generate
     ```
-6. Run the server using 
+6. Start the  Backend server  
     ```sh
     php artisan serv
     ```
