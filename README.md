@@ -26,5 +26,5 @@
     ```
 
 ## Useful links
-+ [install composer](http://webdevzoom.com/how-to-install-composer-on-windows/)
++ [Install composer](http://webdevzoom.com/how-to-install-composer-on-windows/)
 + [Laravel tutorial](https://laracasts.com/series/laravel-from-scratch-2018)
